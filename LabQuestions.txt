@@ -1,0 +1,29 @@
+Program 1: Explain the following commands: clear, whether, who, date, ls, cd, rmdir, mkdir , pwd.
+
+Program 2: Explain the following commands: chmod, umask, df, du, touch, vi, cp, mv etc.
+
+Program 3: Write a Shell-program to backup a given directory to another directory
+
+Program 4: Write a Shell-program to perform (+, -, *, /) operator on the variables take by read command.
+
+Program 5: Write a shell-program to print a table of a specified number take by command line argument method. (like 2*1=2 ……….2*10=20)
+
+Program 6: Write a shell-program to print a gross salary of an employee ( if BS(basic salary) < 1500 then DA= 20% of BS; HRA= 30% of BS else sal >=1500 DA= 2000 and HRA=40% of BS)
+
+Program 7: Write a shell-program to print whether the number is prime or not
+
+Program 8: Write a shell-program to make nested directories  (dir1 dir2 dir3) cmdline input
+
+Program 9: Write a shell-program to list out  all the files and directories separately.
+
+Program 10: Write a c program to count nos of line, space and character in a file using c function.
+
+Program 11: Write a c program to count nos of line, space and character in a file by make system calls.
+
+Program 12: Write a c program for First come first serve scheduling algorithm and calculate average waiting time and turn around time.
+
+Program 13: Write a c program for Non-preemptive SJF scheduling algorithm and calculate average waiting time and turn around time.
+
+Program 14: Write a c program for preemptive SJF scheduling algorithm and calculate average waiting time and turn around time.
+
+
