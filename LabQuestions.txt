@@ -26,4 +26,6 @@ Program 13: Write a c program for Non-preemptive SJF scheduling algorithm and ca
 
 Program 14: Write a c program for preemptive SJF scheduling algorithm and calculate average waiting time and turn around time.
 
+Program 15: Write a c program for Round Robin scheduling algorithm and calculate average waiting time and turn around time.
 
+Program 16: Write a c program for Priority scheduling algorithm and calculate average waiting time and turn around time.
